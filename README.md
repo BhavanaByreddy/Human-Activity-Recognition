@@ -49,33 +49,34 @@ Human-Activity-Recognition/
 
 ## **⚠️ Limitations**
 
- 📉 Accuracy depends on the quality of sensor data
+ 📉 Accuracy depends on the quality of sensor data.
 
- 📱 Sensor placement can affect recognition performance
+ 📱 Sensor placement can affect recognition performance.
 
- 🔄 Similar activities may be difficult to distinguish
+ 🔄 Similar activities may be difficult to distinguish.
 
- 👥 Performance may vary for different users
+ 👥 Performance may vary for different users.
 
- 📊 Requires a large dataset for effective training
+ 📊 Requires a large dataset for effective training.
 
- 🔋 Real-time processing can increase device battery consumption
+ 🔋 Real-time processing can increase device battery consumption.
 
  ## **App Preview**
 
- ## 🚀 Future Enhancements
 
-• Integrate deep learning models such as CNN and LSTM for improved accuracy
+## 🚀 Future Enhancements
 
-• Support real-time activity recognition using wearable and IoT devices
+🔹 Integrate deep learning models such as CNN and LSTM for improved accuracy.
 
-• Add more human activities such as running, cycling, and jumping
+📱 Support real-time activity recognition using wearable and IoT devices.
 
-• Develop a mobile application for live activity monitoring
+🏃 Add more human activities such as running, cycling, and jumping.
 
-• Implement cloud-based storage and analysis of activity data
+📲 Develop a mobile application for live activity monitoring.
 
-• Enhance prediction performance using larger and more diverse datasets
+☁️ Implement cloud-based storage and analysis of activity data.
+
+📈 Enhance prediction performance using larger and more diverse datasets.
  
 
 
