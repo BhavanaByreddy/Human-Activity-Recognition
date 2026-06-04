@@ -70,7 +70,7 @@ Human-Activity-Recognition/
 
  ![Output 3](Output%203.png)
  
-### Final ouput
+### Final Ouput
  ![Output 4](Output%204.png)
 
 ## 🚀 Future Enhancements
