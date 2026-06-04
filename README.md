@@ -33,7 +33,7 @@ Human Activity Recognition (HAR) is a technology that identifies and classifies 
 
 Human-Activity-Recognition/
 
-├── HUman-Activity-Recognition.ipynb
+├── Human-Activity-Recognition.ipynb
 
 ├── README.md
 
@@ -46,5 +46,22 @@ Human-Activity-Recognition/
 ├──  Output 3.png
 
 └──  Output 4.png
+
+## **⚠️ Limitations**
+
+ 📉 Accuracy depends on the quality of sensor data
+
+ 📱 Sensor placement can affect recognition performance
+
+ 🔄 Similar activities may be difficult to distinguish
+
+ 👥 Performance may vary for different users
+
+ 📊 Requires a large dataset for effective training
+
+ 🔋 Real-time processing can increase device battery consumption
+
+ ## **App Preview**
+ 
 
 
