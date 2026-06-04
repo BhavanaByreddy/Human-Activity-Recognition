@@ -1,0 +1,21 @@
+Variable Name,Role,Type,Description
+age,Feature,Integer,Age
+sex,Feature,Categorical,Sex
+cp,Feature,Categorical,Chest pain type
+trestbps,Feature,Integer,Resting blood pressure
+chol,Feature,Integer,Serum cholesterol
+fbs,Feature,Categorical,Fasting blood sugar
+restecg,Feature,Categorical,Resting ECG results
+thalach,Feature,Integer,Maximum heart rate achieved
+exang,Feature,Categorical,Exercise induced angina
+oldpeak,Feature,Integer,ST depression
+slope,Feature,Categorical,Slope of peak exercise
+ca,Feature,Integer,Number of major vessels
+thal,Feature,Categorical,Thalassemia
+target,Feature,Target,Heart disease
+feature15,Feature,Integer,Feature 15
+feature16,Feature,Integer,Feature 16
+feature17,Feature,Integer,Feature 17
+feature18,Feature,Integer,Feature 18
+feature19,Feature,Integer,Feature 19
+feature20,Feature,Integer,Feature 20
