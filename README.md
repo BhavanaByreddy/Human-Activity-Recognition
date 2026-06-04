@@ -62,6 +62,20 @@ Human-Activity-Recognition/
  🔋 Real-time processing can increase device battery consumption
 
  ## **App Preview**
+
+ ## 🚀 Future Enhancements
+
+• Integrate deep learning models such as CNN and LSTM for improved accuracy
+
+• Support real-time activity recognition using wearable and IoT devices
+
+• Add more human activities such as running, cycling, and jumping
+
+• Develop a mobile application for live activity monitoring
+
+• Implement cloud-based storage and analysis of activity data
+
+• Enhance prediction performance using larger and more diverse datasets
  
 
 
