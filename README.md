@@ -13,15 +13,38 @@ Human Activity Recognition (HAR) is a technology that identifies and classifies 
 🤖 Smart Applications – Enables intelligent devices and wearable technology to provide personalized services.
 
 ## **✨ Features**
-• Collects smartphone sensor data using accelerometer and gyroscope sensors
+• Collects smartphone sensor data using accelerometer and gyroscope sensors.
 
-• Performs data preprocessing and feature extraction for better accuracy
+• Performs data preprocessing and feature extraction for better accuracy.
 
-• Uses Machine Learning algorithms for activity classification
+• Uses Machine Learning algorithms for activity classification.
 
-• Recognizes activities such as Walking, Sitting, Standing, and Laying
+• Recognizes activities such as Walking, Sitting, Standing, and Laying.
 
-• Supports real-time human activity monitoring
+• Supports real-time human activity monitoring.
 
-• Provides accurate predictions and performance analysis
+• Provides accurate predictions and performance analysis.
+
+## **Run the app**
+
+• python Human_Activity_Recognition.ipynb 
+
+## **🗂️ Project Structure**
+
+Human-Activity-Recognition/
+
+├── HUman-Activity-Recognition.ipynb
+
+├── README.md
+
+├── variables_table.csv
+
+├── Output 1.png
+
+├──  Output 2.png 
+
+├──  Output 3.png
+
+└──  Output 4.png
+
 
