@@ -63,6 +63,9 @@ Human-Activity-Recognition/
 
  ## **App Preview**
 
+ ### Output 1
+ ![Output 1](Output%201.png)
+
 
 ## 🚀 Future Enhancements
 
